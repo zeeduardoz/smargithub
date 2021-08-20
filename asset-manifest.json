@@ -4,16 +4,16 @@
     "main.js.map": "/smargithub/static/js/main.d4693909.chunk.js.map",
     "runtime-main.js": "/smargithub/static/js/runtime-main.47543d8e.js",
     "runtime-main.js.map": "/smargithub/static/js/runtime-main.47543d8e.js.map",
-    "static/css/2.c55f41dc.chunk.css": "/smargithub/static/css/2.c55f41dc.chunk.css",
+    "static/css/2.68b64559.chunk.css": "/smargithub/static/css/2.68b64559.chunk.css",
     "static/js/2.684b5b5a.chunk.js": "/smargithub/static/js/2.684b5b5a.chunk.js",
     "static/js/2.684b5b5a.chunk.js.map": "/smargithub/static/js/2.684b5b5a.chunk.js.map",
     "index.html": "/smargithub/index.html",
-    "static/css/2.c55f41dc.chunk.css.map": "/smargithub/static/css/2.c55f41dc.chunk.css.map",
+    "static/css/2.68b64559.chunk.css.map": "/smargithub/static/css/2.68b64559.chunk.css.map",
     "static/js/2.684b5b5a.chunk.js.LICENSE.txt": "/smargithub/static/js/2.684b5b5a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.47543d8e.js",
-    "static/css/2.c55f41dc.chunk.css",
+    "static/css/2.68b64559.chunk.css",
     "static/js/2.684b5b5a.chunk.js",
     "static/js/main.d4693909.chunk.js"
   ]
