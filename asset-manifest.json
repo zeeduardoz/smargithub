@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.js": "/smargithub/static/js/main.e115e9bd.chunk.js",
-    "main.js.map": "/smargithub/static/js/main.e115e9bd.chunk.js.map",
+    "main.js": "/smargithub/static/js/main.a6d47b3f.chunk.js",
+    "main.js.map": "/smargithub/static/js/main.a6d47b3f.chunk.js.map",
     "runtime-main.js": "/smargithub/static/js/runtime-main.47543d8e.js",
     "runtime-main.js.map": "/smargithub/static/js/runtime-main.47543d8e.js.map",
     "static/css/2.68b64559.chunk.css": "/smargithub/static/css/2.68b64559.chunk.css",
-    "static/js/2.ab7c076c.chunk.js": "/smargithub/static/js/2.ab7c076c.chunk.js",
-    "static/js/2.ab7c076c.chunk.js.map": "/smargithub/static/js/2.ab7c076c.chunk.js.map",
+    "static/js/2.f8e39087.chunk.js": "/smargithub/static/js/2.f8e39087.chunk.js",
+    "static/js/2.f8e39087.chunk.js.map": "/smargithub/static/js/2.f8e39087.chunk.js.map",
     "index.html": "/smargithub/index.html",
     "static/css/2.68b64559.chunk.css.map": "/smargithub/static/css/2.68b64559.chunk.css.map",
-    "static/js/2.ab7c076c.chunk.js.LICENSE.txt": "/smargithub/static/js/2.ab7c076c.chunk.js.LICENSE.txt"
+    "static/js/2.f8e39087.chunk.js.LICENSE.txt": "/smargithub/static/js/2.f8e39087.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.47543d8e.js",
     "static/css/2.68b64559.chunk.css",
-    "static/js/2.ab7c076c.chunk.js",
-    "static/js/main.e115e9bd.chunk.js"
+    "static/js/2.f8e39087.chunk.js",
+    "static/js/main.a6d47b3f.chunk.js"
   ]
 }
