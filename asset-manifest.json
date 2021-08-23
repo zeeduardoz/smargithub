@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/smargithub/static/js/main.57c11d1c.chunk.js",
-    "main.js.map": "/smargithub/static/js/main.57c11d1c.chunk.js.map",
+    "main.js": "/smargithub/static/js/main.3dd2e17b.chunk.js",
+    "main.js.map": "/smargithub/static/js/main.3dd2e17b.chunk.js.map",
     "runtime-main.js": "/smargithub/static/js/runtime-main.47543d8e.js",
     "runtime-main.js.map": "/smargithub/static/js/runtime-main.47543d8e.js.map",
     "static/css/2.68b64559.chunk.css": "/smargithub/static/css/2.68b64559.chunk.css",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.47543d8e.js",
     "static/css/2.68b64559.chunk.css",
     "static/js/2.f9efdbac.chunk.js",
-    "static/js/main.57c11d1c.chunk.js"
+    "static/js/main.3dd2e17b.chunk.js"
   ]
 }
